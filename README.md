@@ -19,7 +19,7 @@ Predicts fish species using ML
  Project Setup (Run Locally)
 1. Clone the Repository**
 ```sh
-git clone https://github.com/Navin0305/fish-predictor.git
+git clone
 cd fish-predictor
 2. Create Virtual Environment
 python -m venv venv
